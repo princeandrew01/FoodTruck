@@ -10,8 +10,10 @@ services:
     volumes:
       - esdata1:/usr/share/elasticsearch/data
   web:
-    image: prakhar1989/foodtrucks-web
+    image: princeandrew01/foodtrucks-web
     command: python app.py
+    environment:
+     - DEBUG=true #set an env var for flash
     depends_on:
       - es
     ports:

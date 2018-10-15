@@ -4,6 +4,9 @@ SF Food Trucks
 > San Francisco's finger-licking street food now at your fingertips.
 
 ![img](shot.png)
+![img](Screenshot1.PNG)
+![img](Screenshot2.PNG)
+![img](Screenshot3.PNG)
 
 This is a fun application built to accompany the [docker curriculum](http://prakhar.me/docker-curriculum) which is a comprehensive tutorial on getting started with Docker targeted especially at beginners. The app is built with [Flask](http://flask.pocoo.org/) on the backend and [Elasticsearch](http://elastic.co/) is the search engine powering the searches. The front-end is built with [React](http://facebook.github.io/react/) and the beautiful maps are courtesy of [Mapbox](https://www.mapbox.com/).
 
