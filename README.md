@@ -1,9 +1,10 @@
 SF Food Trucks
 ===
+url: http://52.14.62.168/
 
 > San Francisco's finger-licking street food now at your fingertips.
 
-![img](shot.png)
+![img](Screenshot0.png)
 ![img](Screenshot1.PNG)
 ![img](Screenshot2.PNG)
 ![img](Screenshot3.PNG)
